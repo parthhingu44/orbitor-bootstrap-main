@@ -1568,4 +1568,9 @@ ul.dropdown-menu li {
 .widget-contact h6 i {
   color: #FF715B;
 }
-/*# sourceMappingURL=style.css.map */
+
+/*# Custom one */
+
+.navbar .container-fluid .navbar-brand .img-fluid{
+  height: 39px;
+}
